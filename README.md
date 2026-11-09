@@ -24,7 +24,7 @@ I developed a fully interactive dashboard in Tableau to enable real-time marketi
 
 <img width="2730" height="1918" alt="image" src="https://github.com/user-attachments/assets/e6c1068b-867c-49f4-a91d-145204500e69" />
 
-Explore the dashboard here([https://public.tableau.com/app/profile/fridah.machani/viz/AdvertisingInvestmentandReturnOverTime/Dashboard1#1])   
+[Explore the dashboard here](https://public.tableau.com/app/profile/fridah.machani/viz/AdvertisingInvestmentandReturnOverTime/Dashboard1#1)   
 
 ---
 
