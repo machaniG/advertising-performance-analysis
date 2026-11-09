@@ -1,4 +1,28 @@
-# Where Next Dollar of Advertising Spend should Go
+# Where Next Dollar of Advertising Spend should Go?
+
+## Problem 
+
+This project utilizes SQL and Tableau to answer the key digital marketing questions:
+
+- **How much are we spending? → What are we getting? → Is efficiency changing? → Where is the money going? → Where are the biggest performance differences?**
+
+
+## Executive Summary
+
+- Google is the largest contributor to revenue, but its share of revenue is substantially lower than its share of advertising spend. Google receives 57.2% of total spend but generates 40.7% of revenue, a 16.5 percentage-point gap.
+- TikTok shows the opposite pattern: it receives 23.9% of spend while generating 37.3% of revenue. Meta also generates a larger share of revenue than its share of spend.
+- This suggests that the current budget mix is not aligned with observed revenue efficiency across platforms and warrants further investigation into whether budget allocation should be adjusted.
+- Additionally, TikTok Search Ads secure a slight edge in profitability (8.20x ROAS) thanks to cheaper front-end traffic ($0.99 CPC) and $20.23 customer acquisition cost. Display’s exceptional 4.97% higher conversion rate keeps both channels running at a near-identical, elite tier of profitability. We should invest more on TikTok Search and Display ads for better returns
+  
+
+## Tableau Dashboard for Weekly spending efficiently Tracking
+
+I developed a fully interactive dashboard in Tableau to enable real-time marketing performance monitoring. The dashboard helps executives answer the key question: 
+**How is our advertising performance changing over time, and are changes in spending translating into changes in revenue efficiency?**
+
+
+<img width="2730" height="1918" alt="image" src="https://github.com/user-attachments/assets/e6c1068b-867c-49f4-a91d-145204500e69" />
+
 
 ## Current Budget Share is Misaligned with Observed Revenue Efficiency Across Platforms
 
